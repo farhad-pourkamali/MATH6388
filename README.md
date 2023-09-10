@@ -1,7 +1,9 @@
 # MATH6388
 Lecture notes and code examples for MATH 6388: Statistical and Machine Learning
 
-<img src="https://github.com/farhad-pourkamali/MATH6388/blob/main/images/math6388_logo.png?raw=true\" width=350 align="center">
+<p align="center">
+<img src="https://github.com/farhad-pourkamali/MATH6388/blob/main/images/math6388_logo.png?raw=true\" width=350 >
+</p>
 
 | Lecture       | Description                                  |
 |-------------|----------------------------------------------|
