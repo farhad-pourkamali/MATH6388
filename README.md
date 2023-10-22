@@ -11,3 +11,4 @@ Lecture notes and code examples for MATH 6388: Statistical and Machine Learning
 | Lecture 2     | Linear Regression, Optimization, and Regularization                  |
 | Lecture 3     | Linear models for classification, loss function, and evaluation               |
 | Lecture 4     | Dense/convolutional neural networks, activation functions, and gradient descent   |
+| Lecture 5     | Conformal prediction   |
