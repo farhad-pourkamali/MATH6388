@@ -13,3 +13,4 @@ Lecture notes and code examples for MATH 6388: Statistical and Machine Learning
 | Lecture 4     | Dense/convolutional neural networks, activation functions, and gradient descent   |
 | Lecture 5     | Conformal prediction   |
 | Lecture 6     | Clustering techniques | 
+| Lecture 7     | Dimensionality reduction techniques |
