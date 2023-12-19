@@ -8,15 +8,7 @@ Lecture notes and code examples for MATH 6388: Statistical and Machine Learning
 | Lecture       | Description                                  |
 |-------------|----------------------------------------------|
 | Lecture 1     | Machine Learning Basics                   |
-
-<details>
-  <summary>Subtable 1</summary>
-
-  | Subtable Header | Subtable Header 2 |
-  | --------------- | ----------------- |
-  | Subtable Cell   | Subtable Cell 2  |
-  | Subtable Cell   | Subtable Cell 2  |
-</details>
+|               | Topics:                                    |
 
 | Lecture 2     | Linear Regression, Optimization, and Regularization                  |
 | Lecture 3     | Linear models for classification, loss function, and evaluation               |
